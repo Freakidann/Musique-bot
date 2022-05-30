@@ -1,0 +1,2 @@
+# Musique-bot
+Bot musique
